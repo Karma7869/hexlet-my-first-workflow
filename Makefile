@@ -1,4 +1,4 @@
 say-hello:
 	echo "Hello, World!"
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![show-directory](https://github.com/Karma7869/hexlet-my-first-workflow/actions/workflows/say-hello.yml/badge.svg)](https://github.com/Karma7869/hexlet-my-first-workflow/actions/workflows/say-hello.yml)
