@@ -1,3 +1,3 @@
 say-hello:
-      hexlet-my-first-workflow/README.md
+	echo "Hello, World!"
 
